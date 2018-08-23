@@ -1,4 +1,0 @@
-{
-  "tests_server.py::test_connection": true,
-  "tests_server.py::test_smth": true
-}
